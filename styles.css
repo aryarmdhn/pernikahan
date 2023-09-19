@@ -413,7 +413,10 @@ footer {
   color: white;
   margin-top: 50px;
 }
-
+.footer_social{
+  text-decoration: none;
+  color: white;
+}
 footer h3,
 footer p {
   margin: 0;
